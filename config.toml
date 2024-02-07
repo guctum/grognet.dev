@@ -1,0 +1,34 @@
+baseURL = 'https://grognet.dev/'
+languageCode = 'en-us'
+title = 'Greg Uctum | Observability | Kubernetes | SRE'
+theme = "aether"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "About"
+url = "/greg/"
+weight = 2
+
+[[menu.main]]
+name = "Blog"
+url = "/blog/"
+weight  = 3
+
+[[params.social]]
+name = "Github"
+icon = "fa-brands fa-github fa-2x"
+weight = 1
+url = "https://github.com/guctum/"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "fa-brands fa-linkedin fa-2x"
+weight = 2
+url = "https://www.linkedin.com/in/guctum/"
+
+[markup.highlight]
+style = "github-dark"
