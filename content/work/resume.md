@@ -1,12 +1,14 @@
 ---
 title: "Resume"
-description: "The story so far..."
+description: "A good enough summary"
 date: 2024-01-13
 # draft: true
 ---
-## Greg Uctum: The story so far...
 
-### Dynatrace -- June 2021 - present
+My career: the story so far...
+
+### Dynatrace
+#### June 2021 - Present
 
 #### Senior Technical Support Engineer - July 2022 - present
 
@@ -34,7 +36,8 @@ Supporting Dynatrace customers and assisting with resolving problems with the Dy
 - Continously learning new technologies along with new Dynatrace offerings
 - Function as an onboarding core mentor -- setting new hires up to hit the ground running from Day 1
 
-### Corewell Health -- Dec 2020 - May 2021
+### Corewell Health
+#### Dec 2020 - May 2021
 
 #### Software Developer
 
@@ -54,7 +57,8 @@ Technologies in use:
 - AWS CodeBuild
 - AWS EKS
 
-### Amway -- May 2019 - Nov 2020
+### Amway
+#### May 2019 - Nov 2020
 
 #### Software Developer
 
