@@ -6,7 +6,9 @@ date: 2024-01-12
 
 ## Who am I?
 
-I am an observability engineer with a background in troubleshooting, performance monitoring, Kubernetes, and software engineering. 
+I am an observability engineer with a background in troubleshooting, performance monitoring, Kubernetes, and software engineering. I've found that before I can properly troubleshoot a piece of software or implement a solution, I need to know what's under the hood.
+
+Aside from engineering, my passion in the workplace is collaboration. I enjoy collaborating with people from other departments, coming together to solve unique and interesting challenges.
 
 Outside of tech I have a love of video games, the outdoors, science fiction, and sports. Living in Michigan has given me an appreciation for the world around me, not just in tech.
 
