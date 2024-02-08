@@ -1,5 +1,5 @@
 ---
-title: "The Fun Side"
+title: "The Fun Stuff"
 displayInMenu: true
 displayInList: true
 ---
