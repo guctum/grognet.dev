@@ -7,7 +7,7 @@ draft = true
 
 ## Who is Greg?
 
-I'm an obsevability engineer focused on Kubernetes, platforms, and automation. I'm known for bringing a collaborative approach to any task.
+I'm an observability engineer focused on Kubernetes, platforms, and automation. I'm known for bringing a collaborative approach to any task.
 
 I spent the first few years of my career as a Java engineer, building out Spring Boot web services. The neeed for observability introduced me to Dynatrace, adding APM as a skill in my toolkit. The opportunity to join Dynatrace presented itself at the right time, and I've grown into a lead engineer role within the Dynatrace Support organization.
 
