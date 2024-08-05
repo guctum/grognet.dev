@@ -2,10 +2,24 @@
 title = 'Resume'
 tags = ['resume', 'career', 'tech']
 date = 2024-08-05T19:06:55-04:00
-draft = true
 +++
 
-## Greg Uctum: The Story so far...
+# Greg Uctum: The Story so far...
+
+## Technical Skills
+
+- Kubernetes
+- Dynatrace Platform
+- Java
+- Linux
+- CI/CD
+- Public Cloud (AWS/Azure)
+
+## Certifications
+
+- [Certified Kubernetes Administrator](https://www.credly.com/badges/d6e3f76b-8ca9-4229-9be6-92e5a0d54bab/)
+
+## Career Experience
 
 ### Dynatrace
 
