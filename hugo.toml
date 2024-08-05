@@ -1,4 +1,4 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'Greg Uctum | Kubernetes | Support Engineering | SRE'
+title = 'Greg Uctum | Kubernetes | Observability | Support Engineering'
 theme = 'archie'
