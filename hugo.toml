@@ -1,4 +1,8 @@
-baseURL = 'https://example.org/'
+baseURL = "https://grognet.dev"
 languageCode = 'en-us'
 title = 'Greg Uctum | Kubernetes | Observability | Support Engineering'
 theme = 'archie'
+
+[paramas]
+favicon = "favicon.ico"
+mode = "toggle"

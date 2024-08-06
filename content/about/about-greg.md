@@ -1,8 +1,8 @@
 +++
 title = 'Greg Uctum'
+description = "Who is Greg and what is he capable of?"
 tags = ['about']
 date = 2024-08-05T18:24:18-04:00
-draft = true
 +++
 
 ## Who is Greg?
@@ -19,3 +19,7 @@ I now spend my days solving critical tickets revolving around Kubernetes cluster
 - Organized and led international on-site knowledge transfer session
 - Redesigning technical interview process
 - Ownership of and providing white-glove handling of critical at-risk projects
+
+## Outside of work
+
+There's more to life than just work. I enjoy video games, a good show, live music, and exploring more of Michigan.

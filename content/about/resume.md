@@ -1,10 +1,9 @@
 +++
 title = 'Resume'
+description = "Greg Uctum: The Story so far..."
 tags = ['resume', 'career', 'tech']
 date = 2024-08-05T19:06:55-04:00
 +++
-
-# Greg Uctum: The Story so far...
 
 ## Technical Skills
 
