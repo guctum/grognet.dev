@@ -1,6 +1,6 @@
 +++
-title = 'Greg Uctum | Cloud-Native Engineer | Observability Advocate'
-description = 'Who is Greg and what is he capable of?'
+title = 'Greg Uctum '
+description = 'Kubernetes | Cloud-Native Engineer | Observability Advocate'
 featured_image = "static/images/electric_forest_night.jpg"
 +++
 
