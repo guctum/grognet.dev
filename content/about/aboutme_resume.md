@@ -68,8 +68,8 @@ I now spend my days solving critical tickets revolving around Kubernetes cluster
     - Notable increase in satisfaction from technical candidates regarding interview process and format
 
 **Major Accomplishments**
-- Redesigning technical interview process
-- Owning the support experience for critical high-value at-risk accounts
+- Redesigned technical interview process
+- Own the support experience for critical high-value at-risk accounts
 
 #### Senior Technical Support Engineer
 
@@ -142,3 +142,11 @@ Select Projects
 - Implemented automated testing for Java microservices, including unit tests, integration tests, and end-to-end tests
 - Implemented Dynatrace monitoring for Java microservices
 - Setup Dynatrace alerting for on-call rotation
+
+## Education
+
+### Grand Valley State University, Allendale MI
+
+#### Bachelor of Science: Information Systems
+
+**Aug 2014 - Dec 2018**
