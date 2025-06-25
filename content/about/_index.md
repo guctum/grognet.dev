@@ -1,6 +1,6 @@
 +++
 title = 'About'
-description = 'A good enough summary'
+description = 'A good enough summary of me'
 featured_image = "static/images/electric_forest_night.jpg"
 +++
 
