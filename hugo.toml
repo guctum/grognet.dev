@@ -1,7 +1,12 @@
 baseURL = "https://grognet.dev"
 languageCode = 'en-us'
-title = 'Greg Uctum | Kubernetes | Observability | Support Engineering'
-theme = 'archie'
+title = 'Greg Uctum'
+theme = 'ananke'
+
+SectionPagesMenu = "main"
+
+[pagination]
+pagerSize = 2
 
 [paramas]
 favicon = "favicon.ico"
