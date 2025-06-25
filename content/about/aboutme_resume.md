@@ -1,25 +1,27 @@
 +++
-title = 'Greg Uctum | Observability | Cloud-Native Advocate | Backend Engineer'
-description = "Who is Greg and what is he capable of?"
-tags = ['about-greg']
-date = 2025-06-24
+title = 'Who is Greg and what is he capable of?'
+description = 'A good enough summary of what I do'
+tags = ['resume']
+date = 2025-06-10
 +++
 
 # Who is Greg?
 
 I'm an observability engineer focused on Kubernetes, deep technical troubleshooting, and automation. I'm known for bringing a collaborative and humorous approach to any task.
 
-I spent the early years of my career as a Java engineer, building out Spring Boot web services. The neeed for observability introduced me to Dynatrace, adding APM and troubleshooting as valuable skills in my toolkit. The opportunity to join Dynatrace presented itself at the right time, and I've grown into a lead engineer role within the Dynatrace Support organization.
+## General Highlights
 
-I now spend my days solving critical tickets revolving around Kubernetes clusters and Linux systems, and have taken on more and more project work to drive innovation and improvements. From taking ownership of technical interviews to maintaining internal reproduction Kubernetes clusters to writing documentation, no day is quite the same.
+I spent the early years of my career as a Java engineer, building out distributed web services. The neeed for insight into complex systems and digital landscapes introduced me to Dynatrace, adding observability and back-line troubleshooting as valuable skills in my toolkit. The opportunity to join Dynatrace presented itself at the right time, and I've grown into a lead engineer role within the Dynatrace Support organization.
+
+I now spend my days solving critical tickets revolving around Kubernetes clusters and distributed systems, and have taken on more and more project work to drive innovation and improvements. From taking ownership of technical interviews to maintaining internal reproduction Kubernetes clusters to writing documentation, no day is quite the same.
 
 # Technical Resume
 
 ## Technical Skills
 
 - Kubernetes
-- Observability
-- Dynatrace Platform
+- Observability - Tracing, Metrics, Logging
+- APM - Dynatrace
 - Java
 - Go
 - Elasticsearch
@@ -30,6 +32,9 @@ I now spend my days solving critical tickets revolving around Kubernetes cluster
 - Automation
 - Rest APIs
 - Networking Concepts
+- Distributed Systems
+- Container Build Tooling
+- Container Orchestration
 
 ## Certifications
 
@@ -53,7 +58,7 @@ I now spend my days solving critical tickets revolving around Kubernetes cluster
 - Lead the technical interviewing team
 
 
-Select Projects
+**Select Projects**
 - Major Account Oversight
     - Leading Support efforts for high-priority accounts, prioritizing tickets as an escalation point for customer success colleagues
     - Built a culture of collaboration and partnership between key account stakeholders and Support
@@ -113,6 +118,13 @@ Select Projects
 - Spearheaded an AWS development environment POC; authored detailed runbooks and onboarding guides to help engineers transition from a legacy on-premises infrastructure. Built demo VPC with sample CI/CD pipelines hooked into internal registry deploying into EKS cluster
 - Participated in on-call rotation; leveraged Dynatrace and system logs to diagnose and resolve critical production issues, improving uptime and system reliability.
 
+**Select Projects**
+- Implemented upgrade from Java 8 -> Java 11 across all services
+- Spearheaded an AWS development environment POC; authored detailed runbooks and onboarding guides to help engineers transition from a legacy on-premises infrastructure.
+    - Built CDK scripts to stand up sandbox environments
+    - Built demo VPC with sample CI/CD pipelines hooked into internal registry deploying into EKS cluster
+    - Collaborated closely with on-prem networking and security teams to ensure proper access to on-prem resources
+
 ### Amway
 
 #### Software Developer I
@@ -124,3 +136,9 @@ Select Projects
 - Configured web services and infrastructure for Dynatrace monitoring
 - Configured github actions for pull request checks
     - Integration with Sonarqube for coverage scans
+
+**Select Projects**
+- Implemented automated CI/CD pipelines for Java microservices, building and deploying container images to EKS
+- Implemented automated testing for Java microservices, including unit tests, integration tests, and end-to-end tests
+- Implemented Dynatrace monitoring for Java microservices
+- Setup Dynatrace alerting for on-call rotation
